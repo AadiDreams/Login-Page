@@ -1,2 +1,2 @@
-# Online Shopping
--> Login page is created.
+# Login Page
+A login page for e-commerce website.
