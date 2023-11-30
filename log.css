@@ -1,8 +1,11 @@
 body
 {
 background: linear-gradient(291.64deg, #2E248D 5.14%, #8830EA 97.64%);
-width: 1300px;
-height: 675px;
+background-repeat: no-repeat;
+width: 100%;
+height: 100vh;
+justify-content: center;
+align-items: center;
 font-family: 'Inter';
 font-style: normal;
 color: #808080;
