@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+    padding: 0 auto;
+}
 body
 {
 background: linear-gradient(291.64deg, #2E248D 5.14%, #8830EA 97.64%);
@@ -19,7 +23,7 @@ letter-spacing: 0.05em;
 float:right;
 width: 500px;
 height: 550px;
-margin-top:70px;
+margin-top:10%;
 background: linear-gradient(116.28deg, #7D54D8 14.63%, #9B59F4 91.24%);
 box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.25);
 border-radius: 70px 0px 0px 70px;
@@ -38,11 +42,11 @@ margin-top:45px;
 float:right;
 width: 370px;
 height: 550px;
-margin-top:70px;
+margin-top:10%;
 background: #FFFFFF;
 box-shadow: 20px 20px 20px 5px rgba(0, 0, 0, 0.25);
 border-radius: 0px 70px 70px 0px;
-margin-right:195px;
+margin-right:20%;
 }
 .badge
 {
