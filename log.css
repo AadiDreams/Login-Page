@@ -104,6 +104,11 @@ color: #FFFFFF;
 background: linear-gradient(90deg, #694AC3 5.37%, #9E5BF4 100%);
 border-radius: 100px;
 border: 1px solid #808080;
+transition: .5s ease-in-out;
+}
+.login button:hover{
+    letter-spacing: 5px;
+    transition: .5s ease-in-out;
 }
 .logbot
 {
