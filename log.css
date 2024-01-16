@@ -117,3 +117,13 @@ a
 text-decoration:none;
 color: #808080;
 }
+@media(max-width:450px) {
+
+    .right{
+        transform: translateX(30px);
+    }
+    body{
+        height:100vh;
+        overflow: hidden;
+    }
+}
