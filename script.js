@@ -1,4 +1,4 @@
 function log(){
-    let user=document.getElementById("username");
-    let pass=document.getElementById("password");
+    let user=document.getElementById("username").value;
+    let pass=document.getElementById("password").value;
 }
