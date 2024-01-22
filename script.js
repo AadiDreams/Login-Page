@@ -4,6 +4,6 @@ function log(){
     const users=new array("admin","user");
     const passwords=new array("admin01","user01");
     if(user==users[0]&&pass==passwords[0]){
-         self.location.href=main.html;
+        self.location.href="./main.html";
     }
 }
