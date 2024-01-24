@@ -1,4 +1,4 @@
-function log(){
+function value(){
     let user=document.getElementById("username").value;
     let pass=document.getElementById("password").value;
     const users=new array("admin","user");
