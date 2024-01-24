@@ -95,7 +95,7 @@ letter-spacing: 0.05em;
 color: #808080;
 outline: none;
 }
-.login button
+input[type='submit']
 {
 width: 150px;
 height: 40px;
@@ -108,7 +108,7 @@ border: 1px solid #808080;
 cursor: pointer;
 transition: .5s ease-in-out;
 }
-.login button:hover{
+input[type='submit']:hover{
     letter-spacing: 5px;
     background: linear-gradient(90deg, #9E5BF4 5.37%, #694AC3 100%);
     transition: .5s ease-in-out;
