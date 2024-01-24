@@ -7,6 +7,6 @@ function log(){
         self.location.href="./101.html";
     }
     else{
-        window.alert("Invalid Credential"):
+        window.alert("Invalid Credential");
     }
 }
