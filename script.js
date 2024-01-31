@@ -4,7 +4,7 @@ function value(){
     const users=["admin","user"];
     const passwords=["admin01","user01"];
     if(user==users[0] && pass==passwords[0]){
-        self.location.href="./101.html";
+        window.open("./101.html");
     }
     else{
         window.alert("Invalid Credential");
